@@ -25,7 +25,6 @@ FUNCIONALIDADES
 Tecnologias
 	-Java
 	-SpringBoot
-	-Angular
 ```
 
 Agradecimentos ao professor Dougllas Sousa devido aos conhecimentos passados através do curso "Angular 9 + Spring Boot 2.2: Fullstack Completo e Atualizado"
